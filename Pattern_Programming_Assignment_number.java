@@ -12,6 +12,7 @@ public class Pattern_Programming_Assignment_number {
 			System.out.print(i+" ");
 		}
 		System.out.println();
+		
 	}
 	}
 
